@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariiinda/zippy-component-cli.git"
+  },
+  "author": "Marinda (@mariiinda)",
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^10.0.1",
