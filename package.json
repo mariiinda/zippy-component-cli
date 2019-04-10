@@ -4,7 +4,7 @@
   "description": "A zippy assistant that will generate a (react) component file as per your preference.",
   "main": "./src/index.js",
   "bin": {
-    "zippy-component": "./src/index.js"
+    "zippy-component-cli": "./src/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
