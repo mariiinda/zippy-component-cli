@@ -1,0 +1,21 @@
+{
+  "name": "zippy-component-cli",
+  "version": "1.0.0",
+  "description": "A zippy assistant that will generate a (react) component file as per your preference.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.1.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "inquirer": "^6.2.2"
+  }
+}
