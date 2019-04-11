@@ -5,7 +5,7 @@ A zippy assistant that will generate a (react) component file as per your prefer
 ## Usage
 
 ### Generate a component
-``npx zippy-component-cli generate``
+``npx zippy generate``
 
 You will be prompted to enter your component name and preference (functional or class).
 
